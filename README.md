@@ -12,7 +12,7 @@ This project aims to build a binary image classification model to distinguish be
 
 ``bash
 .
-├── Prodigy03.ipynb        # Main notebook for training and testing the model
+├── ImageClass.ipynb        # Main notebook for training and testing the model
 ├── train/                 # Directory containing training images
 ├── test1/                 # Directory containing test images
 ├── sampleSubmission.csv   # Template for submission format
@@ -39,7 +39,7 @@ tqdm
 # 🚀 How to Run
 Unzip the dataset into the respective train/ and test1/ folders.
 
-Open Prodigy03.ipynb.
+Open ImageClass.ipynb.
 
 Run all cells step-by-step to:
 
