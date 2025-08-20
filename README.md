@@ -1,4 +1,3 @@
-# PRODIGY_ML_03
 # 🐶🐱 Dogs vs. Cats Classifier
 
 This project aims to build a binary image classification model to distinguish between dogs and cats using a deep learning model.
